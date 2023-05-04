@@ -1,0 +1,24 @@
+.leftSidebox{
+  min-width: 40%;
+  padding: 40px 0 0 80px;
+}
+
+.headBox{
+    background-color: #f2f2f2;
+    margin-top: 55px;
+}
+
+.mainGrid{
+    background: #ffffff;
+    display: flex;
+}
+
+.rightGrid{
+    margin-top: 50px;
+}
+
+.offerBox{
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}

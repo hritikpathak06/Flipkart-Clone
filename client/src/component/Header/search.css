@@ -1,0 +1,14 @@
+.searchBox{
+    background-color: white;
+    width: 38%;
+    border-radius: 5px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.inputField{
+    padding-left: 20px;
+    width: 100%;
+    font-size: unset;
+}

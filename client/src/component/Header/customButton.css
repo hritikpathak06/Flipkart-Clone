@@ -1,0 +1,11 @@
+.mainBox{
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+}
+
+.shoppingButton{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}

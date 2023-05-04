@@ -1,0 +1,26 @@
+.mainSlide{
+    margin-top: 10px;
+    background: #ffffff;
+}
+
+.firstBox{
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.timerBox{
+    display: flex;
+    align-items: center;
+    color:grey;
+    margin-left: 10px;
+}
+
+.dealText{
+    font-size: 20px;
+}
+
+.productImg{
+    height: 150px;
+    width:auto;
+}

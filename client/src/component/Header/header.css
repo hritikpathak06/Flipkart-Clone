@@ -1,0 +1,22 @@
+.appBar{
+    background-color: red;
+}
+
+.logoUrl{
+    width: 75px;
+    /* height: 14px; */
+}
+
+.headerBox{
+    margin-left: 12%;
+    line-height: 0;
+}
+
+.smallImg{
+    width: 10px;
+    margin-left: 5px;
+}
+
+.subHeader{
+    display: flex;
+}
